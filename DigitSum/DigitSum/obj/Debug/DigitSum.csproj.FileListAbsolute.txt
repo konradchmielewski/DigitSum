@@ -1,0 +1,7 @@
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\DigitSum\DigitSum\obj\Debug\DigitSum.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\DigitSum\DigitSum\obj\Debug\DigitSum.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\DigitSum\DigitSum\bin\Debug\DigitSum.exe.config
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\DigitSum\DigitSum\bin\Debug\DigitSum.exe
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\DigitSum\DigitSum\bin\Debug\DigitSum.pdb
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\DigitSum\DigitSum\obj\Debug\DigitSum.exe
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\DigitSum\DigitSum\obj\Debug\DigitSum.pdb
